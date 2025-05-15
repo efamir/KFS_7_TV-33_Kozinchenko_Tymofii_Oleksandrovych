@@ -1,0 +1,34 @@
+Input {
+    width: 22;
+}
+
+Button {
+    margin-left: 1;
+}
+
+Label {
+    margin: 1;
+}
+
+SimulationWindow {
+    margin: 1;
+    border: solid;
+}
+
+GridItem {
+    height: 1;
+    width: 2;
+    margin: 0;
+}
+
+InputGrid {
+    layout: grid;
+    grid-size: 5 5;
+    width: 12;
+    margin: 1;
+    border: solid;
+}
+
+SimulationWindow {
+    display: none;
+}
